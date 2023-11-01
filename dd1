@@ -27,4 +27,5 @@ elif f==2:
         print("you beat ",f,y)
 else:
     print("only 0,1,2")
-#edit
+
+#goodbye world
