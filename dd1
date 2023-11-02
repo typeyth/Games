@@ -28,4 +28,3 @@ elif f==2:
 else:
     print("only 0,1,2")
 
-#goodbye world
